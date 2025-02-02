@@ -1,0 +1,6 @@
+rugcheck:
+  api_key: "your_rugcheck_key"
+
+telegram:
+  bot_token: "your_bot_token"
+  admin_id: "your_user_id"
